@@ -9,7 +9,7 @@ variable "zone" {
 }
 
 variable "deployment_identifier" {
-  description = "The unique name for your instance"
+  description = "The unique name for your compute instance"
   type        = string
 }
 
